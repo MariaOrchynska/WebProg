@@ -1,7 +1,27 @@
 td{
     border:2px solid aqua;
-text-align: center;}
+text-align: left;
+/* background-color: violet; */
+}
 table{
     width: 60%;
     height: 60px;
+}
+/* .one{
+    background-color: violet;
+} */
+
+
+tbody{
+    background-color:palegoldenrod;
+}
+
+.two{
+    background-color: plum;
+}
+.three{
+    background-color: salmon;
+}
+.four{
+    background-color: thistle;
 }
