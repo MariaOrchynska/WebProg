@@ -1,0 +1,10 @@
+.options li{
+    display:inline;
+    background-color: violet;
+    border: 2px solid;
+    border-color: thistle;
+    margin: 2px;
+    padding: 5px;
+    width: 200px;
+
+}
