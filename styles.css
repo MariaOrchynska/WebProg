@@ -1,7 +1,7 @@
-table{
-    border:4px solid aqua;
+td{
+    border:2px solid aqua;
 text-align: center;}
 table{
-    width: 30%;
-    height: 400px;
+    width: 60%;
+    height: 60px;
 }
